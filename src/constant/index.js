@@ -72,6 +72,7 @@ export const th = [
 ]
 
 export const tr = [
+    
     { num: 1, img: bitcoin, span: "BTC",name:"بیت کوین",lastPrice:"$56,623.54",upordown:"+1.45%",marketCap:"$880,423,640,582",chart:chart1 },
 
     { num: 2, img: ether, span: "ETH",name:"اتریوم",lastPrice:"$56,623.54",upordown:"-5.12%",marketCap:"$880,423,640,582",chart:chart2 },
@@ -87,7 +88,6 @@ export const tr = [
     { num: 7, img: cordona, span: "ADA",name:"کوردونا",lastPrice:"$56,623.54",upordown:"-5.12%",marketCap:"$880,423,640,582",chart:chart2 },
 
     { num: 8, img: ava, span: "AVAX",name:"آوا",lastPrice:"$56,623.54",upordown:"+1.45%",marketCap:"$880,423,640,582",chart:chart1 },
-
 
 
 ]
